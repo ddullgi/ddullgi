@@ -2,7 +2,7 @@
 
 <img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite">
 
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=shrewslampe)](https://velog.io/@shrewslampe)
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
 
 <!--
 **shrewslampe/shrewslampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
