@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite">
 
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
+
+<img align='left' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite">
+
+
 
 <!--
 **shrewslampe/shrewslampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddullgi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddullgi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
