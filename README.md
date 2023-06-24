@@ -1,6 +1,6 @@
 ### 안녕하세요? 황상윤입니다.
 
-<!-- [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe) -->
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
 
 <img align='left' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite">
 
