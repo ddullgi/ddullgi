@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-[![ddullgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddullgi&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/ddullgi/github-readme-stats)
+
+[![ddullgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddullgi&show_icons=true)](https://github.com/ddullgi/github-readme-stats)
