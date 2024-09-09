@@ -1,26 +1,46 @@
-### 안녕하세요? 황상윤입니다.
+# SangYun Hwang (ddulgi)
 
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
 
-<img align='left' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite">
+<a><img src="https://img.shields.io/badge/s_infinite@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a> 
 
-<!--
-**shrewslampe/shrewslampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite)](https://solved.ac/s_infinite/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddullgi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
+## Activity & Awards 🎖️
+
++ **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
+
+## Opensource Projects
+
++ Contributor - [pokerogue](https://github.com/pagefaultgames/pokerogue)
+
+## Project
+
++ devdive - SEO를 적용한 정적 기술 블로그 (2024.04 ~ 2024.06)
+  - [repo](https://github.com/ddullgi/seo-blog), [link](https://www.devdive.co.kr/)
++ Selly - NFT 분할 거래 아트테크 서비스 (2023.10 ~ 11)
+  - [repo](https://github.com/Team-NCT/Selly)
++ 공간109 - NFT 3D 메타버스 갤러리 (2022.08 ~ 10)
+  - [repo](https://github.com/beberiche/Chili-source-m)
++ Salus - IoT 자동 운동 기록 서비스 (2022.07 ~ 08)
+  - [repo](https://github.com/Salus-PJT/Salus)
++ MovieWiki - 영화 추천 서비 (2022.05)
+  - [repo](https://github.com/ddullgi/MovieWiki)
+
+## Tech Stack 👨‍🔧
+
+##### Main
+
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> </br> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
+
+##### Sub
+
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=github actions&logoColor=white" />
+
+<!--
 <div align="center">
 <h3 align="center">👋 About me</h3>
 <a href="https://www.notion.so/d0ba906d5fac4236b742b86b6ef6276e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
@@ -46,3 +66,6 @@ Here are some ideas to get you started:
 <br>
 
 [![ddullgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddullgi&show_icons=true&count_private=true)](https://github.com/ddullgi)
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
+
+ -->
