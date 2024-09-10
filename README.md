@@ -39,6 +39,11 @@
 
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=github actions&logoColor=white" />
 
+## Blog Post 📚
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shrewslampe&slug=Next.js와-React-Query로-SSR-사용하기)
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shrewslampe&slug=Next.js-의-폰트-깜빡임을-해결해-보자)
+
+
 <!--
 <div align="center">
 <h3 align="center">👋 About me</h3>
@@ -64,7 +69,7 @@
 <br>
 <br>
 
-[![ddullgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddullgi&show_icons=true&count_private=true)](https://github.com/ddullgi)
+[![ddullgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddullgi&show_icons=true&count_private=true)](https://github.com/ddullgi)<br />
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=right&name=shrewslampe)](https://velog.io/@shrewslampe)
 
  -->
