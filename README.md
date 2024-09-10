@@ -9,6 +9,7 @@
 
 ## Activity & Awards 🎖️
 
++ HRD Korea - 정보처리기사 (2024.09)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 
 ## Opensource Projects
