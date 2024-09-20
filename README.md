@@ -10,6 +10,7 @@
 ## Activity & Awards 🎖️
 
 + **HRD Korea** - 정보처리기사 (2024.09)
++ **SEO KOREA** - SEO KOREA 스터디 3기 (2024.03 ~ 06)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 
 ## Opensource Projects
