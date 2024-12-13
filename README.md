@@ -9,6 +9,7 @@
 
 ## Activity & Awards 🎖️
 
++ **K-Data** - SQL Developer (2024.12)
 + **KAIT** - 릭눅스마스터 2급 (2024.10)
 + **HRD Korea** - 정보처리기사 (2024.09)
 + **SEO KOREA** - SEO KOREA 스터디 3기 (2024.03 ~ 06)
