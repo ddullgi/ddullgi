@@ -31,7 +31,7 @@
   - [repo](https://github.com/beberiche/Chili-source-m)
 + Salus - IoT 자동 운동 기록 서비스 (2022.07 ~ 08)
   - [repo](https://github.com/Salus-PJT/Salus)
-+ MovieWiki - 영화 추천 서비 (2022.05)
++ MovieWiki - 영화 추천 서비스 (2022.05)
   - [repo](https://github.com/ddullgi/MovieWiki)
 
 ## Tech Stack 👨‍🔧
