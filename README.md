@@ -24,7 +24,7 @@
 ## Project
 
 + devdive - SEO를 적용한 정적 기술 블로그 (2024.04 ~ 2024.06)
-  - [repo](https://github.com/ddullgi/seo-blog), [link](https://www.devdive.co.kr/)
+  - [repo](https://github.com/ddullgi/seo-blog)
 + Selly - NFT 분할 거래 아트테크 서비스 (2023.10 ~ 11)
   - [repo](https://github.com/Team-NCT/Selly)
 + 공간109 - NFT 3D 메타버스 갤러리 (2022.08 ~ 10)
