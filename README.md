@@ -1,4 +1,4 @@
-# SangYun Hwang (ddulgi)
+# SangYun Hwang
 
 
 <a><img src="https://img.shields.io/badge/s_infinite@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a> 
