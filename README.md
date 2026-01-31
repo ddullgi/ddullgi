@@ -3,9 +3,9 @@
 
 <a><img src="https://img.shields.io/badge/s_infinite@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a> 
 
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_infinite)](https://solved.ac/s_infinite/)
-
+-->
 
 ## Activity & Awards 🎖️
 
