@@ -9,6 +9,7 @@
 
 ## Activity & Awards 🎖️
 
++ **스터디** - CS 스터디 (2023.01 ~ 진행중)
 + **K-Data** - SQL Developer (2024.12)
 + **KAIT** - 릭눅스마스터 2급 (2024.10)
 + **HRD Korea** - 정보처리기사 (2024.09)
